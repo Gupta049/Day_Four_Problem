@@ -16,3 +16,5 @@ https://onlinegdb.com/uIZvNUxOSu
 https://onlinegdb.com/v4VPY7n9wz
 #9. print 3rd largest element in array
 https://onlinegdb.com/vaUEta8Ld
+#10. print hollow square with diagonal and leading diagonal with stars
+https://www.onlinegdb.com/fork/Y753IxAsD
