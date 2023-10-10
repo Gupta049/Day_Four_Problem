@@ -1,0 +1,18 @@
+#1. hollow square stars print
+https://onlinegdb.com/b2VT5WhO8
+#2. diagonal print in hollow square 
+https://onlinegdb.com/Y753IxAsD
+#3. print 5 like s 
+https://onlinegdb.com/bT4XxR1VN
+#4. opposite U 
+https://onlinegdb.com/hcUEEQNtB
+#5. print U
+https://onlinegdb.com/k4JpBqzZb
+#6. print T 
+https://onlinegdb.com/Ok54R1TSz
+#7. print H
+https://onlinegdb.com/uIZvNUxOSu
+#8. print I 
+https://onlinegdb.com/v4VPY7n9wz
+#9. print 3rd largest element in array
+https://onlinegdb.com/vaUEta8Ld
